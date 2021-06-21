@@ -1,1 +1,1 @@
-# Imagine-Dragons-Tribute-Page
+#Tribute-Page
